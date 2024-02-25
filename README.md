@@ -31,3 +31,17 @@ El diseño de la aplicación debe ser responsive y adaptarse correctamente a dif
 | Funcionalidad      | 3       |
 
 
+## Vistas
+
+MAC 
+![VISTA EN MAC](./assets/MAC.png)
+
+MOBILE 
+![VISTA EN MOBILE](./assets/320%20x%20480.png)
+
+IPAD-VERTICAL
+![VISTA EN IPAD-VERTICAL](./assets/IPAD-VERTICAL.png) 
+
+IPAD-HORIZONTAL 
+![VISTA EN IPAD-HORIZONTAL](./assets/IPAD-HORIZONATL.png) 
+
