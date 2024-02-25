@@ -30,6 +30,5 @@ El diseño de la aplicación debe ser responsive y adaptarse correctamente a dif
 | HTML Semántico     | 0.5     |
 | Funcionalidad      | 3       |
 
-## Vistas
-MAC 
-![VISTA EN MAC](./assets/MAC.png)
+
+
