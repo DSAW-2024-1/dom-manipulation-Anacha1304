@@ -1,4 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/EEMCX3dO)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13916454&assignment_repo_type=AssignmentRepo)
 # Lista de Tareas
+
+[LINK DE LA PÁGINA DESPLEGADA](https://dsaw-2024-1.github.io/dom-manipulation-Anacha1304/)
 
 Esta tarea consiste en crear una aplicación de lista de tareas utilizando HTML, CSS y JavaScript. La aplicación debe ser capaz de crear, eliminar y marcar tareas como completadas. Además, se espera que el diseño sea responsive y se adapte correctamente a las medidas de dispositivos móviles, tablets y desktops.
 
@@ -28,4 +32,15 @@ El diseño de la aplicación debe ser responsive y adaptarse correctamente a dif
 | HTML Semántico     | 0.5     |
 | Funcionalidad      | 3       |
 
+## Vistas
+MAC 
+![VISTA EN MAC](./assets/MAC.png)
 
+MOBILE 
+![VISTA EN MOBILE](./assets/320%20x%20480.png)
+
+IPAD-VERTICAL 
+![VISTA EN IPAD-VERTICAL](./assets/IPAD-VERTICAL.png) 
+
+IPAD-HORIZONTAL 
+![VISTA EN IPAD-HORIZONTAL](./assets/IPAD-HORIZONATL.png) 

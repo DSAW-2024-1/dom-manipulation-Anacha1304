@@ -4,10 +4,50 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./styles/styles.css" />
-    <title>Document</title>
+    <link rel="icon" type="image/x-icon" href="./images/senal-aprobada.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Abel&family=Permanent+Marker&family=Sora:wght@100..800&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/fa1edbab3d.js" crossorigin="anonymous"></script>
+    <title>My To-Do list</title>
   </head>
   <body>
-    <h1>Mi TODO list</h1>
-    <script src="scripts/script.js"></script>
+    
+    <div class="general"> 
+      <div class="date" id="date-actual"></div>
+      <div class="big-box">
+        
+        <h1>Mi TO-DO list</h1>
+        <p class="intro">¿Estás listo para ser ponerte al día con tus tareas? ¡¡¡Agregalas para que no se te olviden!!!</p>
+        <div class="barra">
+          <input type="text" id= "taskSpace" placeholder="Escribe tu tarea aquí">
+          <i class="fa-solid fa-square-plus" id="plus"></i>
+        </div>
+       
+
+        <div class="tasks">
+          <h3>Aquí aparecen tus tareas</h3>
+          <ul id="work">
+            <!--
+              <li>
+              <i id="fa-circle" class="fa-regular fa-circle"></i>
+              <p class="highlight"></p>
+              <i class="fa-solid fa-trash-can"></i>
+          </li>
+          
+            -->
+            
+          </ul>
+      </div>
+      
+        
+      </div>
+
+    </div>
+    
+    <script src="./scripts/script.js"></script>
   </body>
 </html>
